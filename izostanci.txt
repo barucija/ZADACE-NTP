@@ -1,0 +1,6 @@
+Emir 6 0
+Ahmed 32 2
+Amna 0 0 
+Elma 4 1 
+Samir 8 0
+Elmir 34 4

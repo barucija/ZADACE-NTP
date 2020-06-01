@@ -1,0 +1,5 @@
+Emir Barucija 16 6 2500
+Elmir Smriko 17 6 2000
+Ahmed Babic 15 8 2700
+Adi Zubic 3 6 4500
+Kenan Genjac 8 7 3000

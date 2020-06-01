@@ -1,0 +1,5 @@
+Emir Barucija 4 4 4.32
+Elmir Smriko 4 4 4.12
+Ahmed Babic 4 5 5.00
+Adi Zubic 3 4 4.23
+Kenan Genjac 3 5 4.92

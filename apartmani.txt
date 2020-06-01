@@ -1,0 +1,7 @@
+Apartman Makarska 2 240
+Apartman Promajna 4 320
+Apartman Budva 3 300
+Apartman Bar 2 185
+Apartman Šibenik 1 80
+Apartman Split 5 520
+Apartman Paralia 3 165

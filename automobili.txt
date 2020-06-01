@@ -1,0 +1,6 @@
+Automobil Audi 12500 9
+Automobil Mercedes 8750 3
+Automobil Bmw 23000 5
+Automobil Seat 13450 2
+Automobil Golf 4500 0
+Automobil Fiat 2320 5
